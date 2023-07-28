@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Airdrop Contract",
+      "value": "0xDffF3321E6f22FCBDe3CaD5DFd562D5C8034dFF7"
+    },
+    {
+      "id": 2,
+      "name": "Airdrop Fee in Wei",
+      "value": "1000000000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "CyberBulls AirDrop"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "CYBLS Token is the Future Meme Token of the Decade dont miss out on this once in a lifetime oppurtunity, Join our Growing Community. To Claim, Connect Metamask or Trust Wallet then click claim AirDrop !"
+    },
+    {
+      "id": 5,
+      "name": "Token Contract",
+      "value": "0x01741698e353a05a446e0E0823b905d24716DE68"
+    },
+    {
+      "id": 6,
+      "name": "Token Symbol",
+      "value": "CYBLS"
+    },
+    {
+      "id": 7,
+      "name": "Airdrop Amount",
+      "value": "1000000"
+    }
+    
+  ]
+  
